@@ -1,0 +1,5 @@
+print('i' in 'kit')
+print('O' in 'kit')
+print('K' not in 'kit')
+print('t' not in 'kit')
+print(128 % 2)
